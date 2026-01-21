@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "167bf8f5-94d9-48d7-bc5a-a5ab7e127ddb",
+    "Descricao": "Servi\u00E7o",
+    "Valor": 20,
+    "Tipo": 0,
+    "BarbeiroResponsavel": "Sistema",
+    "Data": "2026-01-21T08:18:23.8482424-03:00"
+  },
+  {
+    "Id": "488054ab-9632-4ffc-8d38-e15676c98b8d",
+    "Descricao": "Servi\u00E7o",
+    "Valor": 20,
+    "Tipo": 0,
+    "BarbeiroResponsavel": "Sistema",
+    "Data": "2026-01-21T08:18:26.942216-03:00"
+  },
+  {
+    "Id": "8f202906-648f-4d96-ae1f-b80df73b3c7c",
+    "Descricao": "Servi\u00E7o",
+    "Valor": 50.00,
+    "Tipo": 0,
+    "BarbeiroResponsavel": "Sistema",
+    "Data": "2026-01-21T08:19:33.4716956-03:00"
+  }
+]

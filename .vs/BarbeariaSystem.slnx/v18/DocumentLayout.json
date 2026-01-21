@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monaliza\\Desktop\\ProjetoBarbearia\\BarbeariaSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D57A1A-7265-48A8-AB0D-6C8B39CFF326}|Barbearia.UI\\Barbearia.UI.csproj|c:\\users\\monaliza\\desktop\\projetobarbearia\\barbeariasystem\\barbearia.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D57A1A-7265-48A8-AB0D-6C8B39CFF326}|Barbearia.UI\\Barbearia.UI.csproj|solutionrelative:barbearia.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5B5AC-564A-47B8-A13B-3AEA1E3F6F86}|Barbearia.Domain\\Barbearia.Domain.csproj|c:\\users\\monaliza\\desktop\\projetobarbearia\\barbeariasystem\\barbearia.domain\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5B5AC-564A-47B8-A13B-3AEA1E3F6F86}|Barbearia.Domain\\Barbearia.Domain.csproj|solutionrelative:barbearia.domain\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2946EC-C8CC-45BB-8B7A-ADA0568AB0BA}|Barbearia.Infrastructure\\Barbearia.Infrastructure.csproj|c:\\users\\monaliza\\desktop\\projetobarbearia\\barbeariasystem\\barbearia.infrastructure\\data\\repositoriofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2946EC-C8CC-45BB-8B7A-ADA0568AB0BA}|Barbearia.Infrastructure\\Barbearia.Infrastructure.csproj|solutionrelative:barbearia.infrastructure\\data\\repositoriofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Monaliza\\Desktop\\ProjetoBarbearia\\BarbeariaSystem\\Barbearia.Infrastructure\\Data\\RepositorioFinanceiro.cs",
+              "RelativeDocumentMoniker": "Barbearia.Infrastructure\\Data\\RepositorioFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Monaliza\\Desktop\\ProjetoBarbearia\\BarbeariaSystem\\Barbearia.Infrastructure\\Data\\RepositorioFinanceiro.cs",
+              "RelativeToolTip": "Barbearia.Infrastructure\\Data\\RepositorioFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:17:16.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\Monaliza\\Desktop\\ProjetoBarbearia\\BarbeariaSystem\\Barbearia.Domain\\Models\\Transacao.cs",
+              "RelativeDocumentMoniker": "Barbearia.Domain\\Models\\Transacao.cs",
+              "ToolTip": "C:\\Users\\Monaliza\\Desktop\\ProjetoBarbearia\\BarbeariaSystem\\Barbearia.Domain\\Models\\Transacao.cs",
+              "RelativeToolTip": "Barbearia.Domain\\Models\\Transacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:16:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monaliza\\Desktop\\ProjetoBarbearia\\BarbeariaSystem\\Barbearia.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Barbearia.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Monaliza\\Desktop\\ProjetoBarbearia\\BarbeariaSystem\\Barbearia.UI\\Program.cs",
+              "RelativeToolTip": "Barbearia.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:14:43.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

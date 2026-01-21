@@ -1,0 +1,16 @@
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\bin\Debug\net10.0\Barbearia.Infrastructure.deps.json
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\bin\Debug\net10.0\Barbearia.Infrastructure.dll
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\bin\Debug\net10.0\Barbearia.Infrastructure.pdb
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\bin\Debug\net10.0\Barbearia.Domain.dll
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\bin\Debug\net10.0\Barbearia.Domain.pdb
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbearia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbearia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbearia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbearia.Infrastructure.AssemblyInfo.cs
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbearia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbearia.Infrastructure.sourcelink.json
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbeari.CAE9D9BF.Up2Date
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbearia.Infrastructure.dll
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\refint\Barbearia.Infrastructure.dll
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\Barbearia.Infrastructure.pdb
+C:\Users\Monaliza\Desktop\ProjetoBarbearia\BarbeariaSystem\Barbearia.Infrastructure\obj\Debug\net10.0\ref\Barbearia.Infrastructure.dll
